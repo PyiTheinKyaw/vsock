@@ -1,4 +1,4 @@
-module github.com/jay/vsock
+module github.com/pyitheinkyaw/vsock
 
 go 1.22.4
 
